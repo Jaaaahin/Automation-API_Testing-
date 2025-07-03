@@ -1,0 +1,11 @@
+Response Body: {
+  bookingid: 513,
+  booking: {
+    firstname: 'Dianna',
+    lastname: 'Hirthe',
+    totalprice: 258,
+    depositpaid: true,
+    bookingdates: { checkin: '2025-07-03', checkout: '2025-07-08' },
+    additionalneeds: 'Virtus alias ventito.'
+  }
+}

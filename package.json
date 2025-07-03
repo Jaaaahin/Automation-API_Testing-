@@ -1,0 +1,28 @@
+{
+  "name": "api_testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright/test",
+    "test:q1": "playwright test tests/patch_api_request.spec.js",
+    "test:q2": "playwright test tests/end_to_end_testing_09.spec.js",
+    "test:q3": "playwright test tests/put_api_request.spec.js",
+    "test:q4": "playwright test tests/post_api_request.spec.js",
+    "test:q5": "playwright test tests/get_api_request.spec.js",
+    "test:q6": "playwright test tests/delete_api_request.spec.js",
+    "allure:report": "allure generate --clean && allure open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@faker-js/faker": "^9.8.0",
+    "@playwright/test": "^1.53.1",
+    "@types/node": "^24.0.4",
+    "allure-playwright": "^3.3.0"
+  },
+  "dependencies": {
+    "luxon": "^3.6.1"
+  }
+}

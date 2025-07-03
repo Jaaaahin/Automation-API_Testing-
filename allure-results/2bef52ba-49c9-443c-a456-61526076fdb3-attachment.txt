@@ -1,0 +1,17 @@
+{
+  firstname: 'ninja',
+  lastname: 'api',
+  totalprice: 1000,
+  depositpaid: true,
+  bookingdates: { checkin: '2017-01-01', checkout: '2019-01-01' },
+  additionalneeds: 'fatish'
+}
+Token: ce20990c9321164
+Patch Response Body: {
+  firstname: 'Tester Ninja',
+  lastname: 'api',
+  totalprice: 1000,
+  depositpaid: true,
+  bookingdates: { checkin: '2017-01-01', checkout: '2019-01-01' },
+  additionalneeds: 'fatish'
+}

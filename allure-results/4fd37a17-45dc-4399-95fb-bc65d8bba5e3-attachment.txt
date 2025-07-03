@@ -1,0 +1,11 @@
+Response Body: {
+  bookingid: 844,
+  booking: {
+    firstname: 'Jess',
+    lastname: 'Conn',
+    totalprice: 133,
+    depositpaid: true,
+    bookingdates: { checkin: '2025-07-03', checkout: '2025-07-08' },
+    additionalneeds: 'Tamisium aegre ara stips quia ustulo cohaero illum.'
+  }
+}

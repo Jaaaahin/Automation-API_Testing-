@@ -1,0 +1,11 @@
+Response Body: {
+  bookingid: 600,
+  booking: {
+    firstname: 'Therese',
+    lastname: 'Schamberger',
+    totalprice: 407,
+    depositpaid: true,
+    bookingdates: { checkin: '2025-07-03', checkout: '2025-07-08' },
+    additionalneeds: 'Canto sit supra depraedor atavus tabesco addo.'
+  }
+}

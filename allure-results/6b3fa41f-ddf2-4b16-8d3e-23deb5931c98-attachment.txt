@@ -1,0 +1,8 @@
+{
+  firstname: 'ninja',
+  lastname: 'api',
+  totalprice: 1000,
+  depositpaid: true,
+  bookingdates: { checkin: '2017-01-01', checkout: '2019-01-01' },
+  additionalneeds: 'fatish'
+}
