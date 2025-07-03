@@ -3,19 +3,18 @@
 This project is a complete API Testing Framework built using [Playwright](https://playwright.dev/) and JavaScript. It supports **GET**, **POST**, **PUT**, **PATCH**, and **DELETE** requests and includes end-to-end testing flows.
 
 ---
-
-## 📁 Folder Structure
-##tests/
-#├── end_to_end_testing_09.spec.js     # Full E2E API test
-#├── example.spec.js                   # Example or template test
-#├── get_api_request.spec.js           # GET API tests
-#├── patch_api_request.spec.js         # PATCH API tests
-#├── post_api_request_01.spec.js       # POST API test 1
-#├── post_api_request_02.spec.js       # POST API test 2
-#├── post_api_request_03.spec.js       # POST API test 3
-#├── post_api_request_04.spec.js       # POST API test 4
-#├── put_api_request.spec.js           # PUT API tests
-#└── query_parameters.spec.js          # GET with query parameters
+ 📁 Folder Structure
+ tests/
+├── end_to_end_testing_09.spec.js     # Full E2E API test
+├── example.spec.js                   # Example or template test
+├── get_api_request.spec.js           # GET API tests
+├── patch_api_request.spec.js         # PATCH API tests
+├── post_api_request_01.spec.js       # POST API test 1
+├── post_api_request_02.spec.js       # POST API test 2
+├── post_api_request_03.spec.js       # POST API test 3
+├── post_api_request_04.spec.js       # POST API test 4
+├── put_api_request.spec.js           # PUT API tests
+└── query_parameters.spec.js          # GET with query parameters
 
 
 
