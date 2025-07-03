@@ -19,7 +19,7 @@ This project is a complete API Testing Framework built using [Playwright](https:
 
 
 
-Install required packages:
+## Install required packages:
 npm install @playwright/test @faker-js/faker luxon
 Optional (for reporting):
 npm install -D allure-playwright
