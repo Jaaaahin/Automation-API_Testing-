@@ -4,7 +4,9 @@ This project is a complete API Testing Framework built using [Playwright](https:
 
 ---
  📁 Folder Structure
- tests/
+ 
+ #####
+ #tests/
 ├── end_to_end_testing_09.spec.js     # Full E2E API test
 ├── example.spec.js                   # Example or template test
 ├── get_api_request.spec.js           # GET API tests
